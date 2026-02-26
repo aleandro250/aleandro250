@@ -1,5 +1,6 @@
-<h1 align="center">🧠 Aleandro</h1>
-<h3 align="center">Backend Developer en formación</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aleandro;Backend+Developer+en+formación" />
+</p>
 
 <p align="center">
   🚀 Java | Spring Boot | APIs REST | Bases de Datos
