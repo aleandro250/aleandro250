@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aleandro;Backend+Developer+en+formación" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=180&section=header&text=Aleandro&fontSize=48&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <b>Backend Developer en formación</b>
 </p>
 
 <p align="center">
